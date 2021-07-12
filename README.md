@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The Future Solana NFT Marketplace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Designed as an Amazon clone to be used as a template for an NFT marketplace on the Solana blockchain. At this state, doesn't include blockchain functionality, but that will be added. 
 
 ## Available Scripts
 
